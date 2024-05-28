@@ -7,4 +7,5 @@ public class Member {
     int[] arr = new int[4];
     String str = "";
     String Z = "";
+    String X = "";
 }
