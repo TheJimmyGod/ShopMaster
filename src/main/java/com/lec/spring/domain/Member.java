@@ -6,4 +6,5 @@ public class Member {
     Long longId = 0L;
     int[] arr = new int[4];
     String str = "";
+    String Z = "";
 }
