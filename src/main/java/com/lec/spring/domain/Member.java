@@ -4,4 +4,5 @@ public class Member {
     int id = 0;
     String name = "";
     Long longId = 0L;
+    int[] arr = new int[4];
 }
