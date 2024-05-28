@@ -8,4 +8,5 @@ public class Member {
     String str = "";
     String Z = "";
     String X = "";
+    String Y = "";
 }
