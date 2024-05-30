@@ -10,4 +10,5 @@ public class Member {
     String X = "";
     String Y = "";
     float[] arr2 = new float[4];
+    float[] arr3 = new float[4];
 }
